@@ -10,7 +10,7 @@ Steps
  - [x] click on the checkbox and put client_id and client_secret **Use your own OAuth credentials** then 
  - [x] On the **Select & authorize APIs** write this link `https://mail.google.com` click the Authorized api button, it will redirect you to access to your Gmail account then i will give me warning about your app is not verify ignore it 
 ---
-##dependencies
+## dependencies
 npm i nodemailer googleapis dotenv
 ---
 ***secrets this should be come from dotenv file***
